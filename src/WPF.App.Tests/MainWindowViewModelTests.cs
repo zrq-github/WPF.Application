@@ -1,3 +1,5 @@
+using WPF.App.ViewModels;
+
 namespace WPF.App.Tests;
 
 //This attribute generates tests for MainWindowViewModel that
